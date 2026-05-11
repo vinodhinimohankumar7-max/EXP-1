@@ -45,31 +45,31 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-
+![alt text](<Screenshot 2026-04-27 115133.png>)
 
 b.  KCL:
- 
+ ![alt text](<Screenshot 2026-04-26 124108.png>)
 
 Calculation:
 
 a.   KVL:
  
-
+![alt text](<Screenshot 2026-05-11 210022.png>)
 
 b.  KCL:
 
-
+![alt text](<Screenshot 2026-05-11 210207.png>)
 
 
 Tabulation:
 
 a.   KVL:
  
-
+![alt text](<Screenshot 2026-05-11 210235.png>)
 
 b.  KCL:
 
-
+![alt text](<Screenshot 2026-05-11 210253.png>)
 
 RESULT:
 
